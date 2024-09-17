@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NIT3213FinalProject</string>
+    <string name="price_text">Price: $%1$s</string>
+    <string name="dividend_yield_text">Dividend Yield: %1$s%%</string>
+</resources>
